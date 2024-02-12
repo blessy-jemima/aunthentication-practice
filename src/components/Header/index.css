@@ -1,0 +1,17 @@
+.header-container {
+  color: rgb(108, 29, 128);
+  font-family: 'Roboto';
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.link {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.list {
+  margin-right: 10px;
+}
